@@ -7,4 +7,4 @@ Updated by Justin Braun to support multiple host names.
 
 # Sample usage
 
-.\cfdns_update_jb.ps1 -email 'user@domain.net' -token 'token' -domain 'dnszonename' -record '<record1.domain.net>,<record2.domain.net>'
+.\cfdns_updater.ps1 -email 'user@domain.net' -token 'token' -domain 'dnszonename' -record '<record1.domain.net>,<record2.domain.net>'
